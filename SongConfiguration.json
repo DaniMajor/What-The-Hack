@@ -1,0 +1,128 @@
+[
+  {
+    "mood" : "Sad",
+    "songs" : [
+      {
+        "name" : "Bob Marley - Don't worry be Happy",
+        "location" : "https://www.youtube.com/watch?v=L3HQMbQAWRc"
+      },
+      {
+        "name": "Bob Marley 2 - Don't worry be Happy",
+        "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
+      },
+      {
+        "name" : "Bob Marley 3 - Don't worry be Happy",
+        "location" : "https://www.youtube.com/watch?v=L3HQMbQAWRc"
+      },
+      {
+        "name": "Bob Marley 4 - Don't worry be Happy",
+        "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
+      }
+    ]
+  },
+  {
+    "mood" : "Happy",
+    "songs" : [
+      {
+        "name" : "Rick Astley - Never Gonna Give You Up",
+        "location" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      },
+            {
+        "name" : "Rick Astley 2 - Never Gonna Give You Up",
+        "location" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      },
+      {
+        "name" : "Rick Astley 3 - Never Gonna Give You Up",
+        "location" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      },
+      {
+        "name" : "Rick Astley 4 - Never Gonna Give You Up",
+        "location" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      }
+    ]
+  },
+  {
+    "mood" : "Angry",
+    "songs": [
+        {
+            "name": "Bob Marley 1 - Don't worry be Happy",
+            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
+        },
+        {
+            "name": "Bob Marley 1 - Don't worry be Happy",
+            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
+        },
+        {
+            "name": "Bob Marley 1 - Don't worry be Happy",
+            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
+        },
+        {
+            "name": "Who Let The Dogs Out 1",
+            "location": "https://www.youtube.com/watch?v=9sLR0vgpeWI"
+        }
+    ]
+  },
+  {
+    "mood" : "Fear",
+    "songs": [
+        {
+            "name": "Bob Marley 1 - Don't worry be Happy",
+            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
+        },
+        {
+            "name": "Bob Marley 1 - Don't worry be Happy",
+            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
+        },
+        {
+            "name": "Bob Marley 1 - Don't worry be Happy",
+            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
+        },
+        {
+            "name": "Who Let The Dogs Out 1",
+            "location": "https://www.youtube.com/watch?v=9sLR0vgpeWI"
+        }
+    ]
+  },
+  {
+    "mood" : "Surprise",
+    "songs": [
+        {
+            "name": "Bob Marley 1 - Don't worry be Happy",
+            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
+        },
+        {
+            "name": "Bob Marley 1 - Don't worry be Happy",
+            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
+        },
+        {
+            "name": "Bob Marley 1 - Don't worry be Happy",
+            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
+        },
+        {
+            "name": "Who Let The Dogs Out 1",
+            "location": "https://www.youtube.com/watch?v=9sLR0vgpeWI"
+        }
+    ]
+  },
+  {
+    "mood" : "Neutral",
+    "songs": [
+        {
+            "name": "Bob Marley 1 - Don't worry be Happy",
+            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
+        },
+        {
+            "name": "Bob Marley 2 - Don't worry be Happy",
+            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
+        },
+        {
+            "name": "Bob Marley 3 - Don't worry be Happy",
+            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
+        },
+        {
+            "name": "Who Let The Dogs Out 1",
+            "location": "https://www.youtube.com/watch?v=9sLR0vgpeWI"
+        }
+    ]
+  }
+]
