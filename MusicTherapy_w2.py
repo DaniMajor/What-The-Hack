@@ -98,11 +98,11 @@ def check_mood():
 	action = request.args.get('action')
 	mood = CheckMood.main()
 	print('Mood =', mood)
-	# mood = "sadness"
+	# mood = "neutral"
 	fakeUrl = 'myPicture.jpg?' + str(datetime.datetime.now().microsecond)
 	random_song = random.randint(0, (int(numberofsongs_permood) - 1))
 	print("Random Index # ", random_song)
-	# random_song = 5
+	# random_song = 3
 	if mood == "Error":
 		settings.logging.debug('Error detecting face')
 		feedback = "Sorry, i can not detect your face. Please retake the picture"
