@@ -1,128 +1,292 @@
 [
   {
-    "mood" : "Sad",
+    "mood" : "sadness",
     "songs" : [
       {
-        "name" : "Bob Marley - Don't worry be Happy",
-        "location" : "https://www.youtube.com/watch?v=L3HQMbQAWRc"
+        "name": "Bob Marley - Don't worry be Happy",
+        "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc",
+        "comments": "You look sad. don't worry it's going to be alright."
       },
       {
-        "name": "Bob Marley 2 - Don't worry be Happy",
-        "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
+        "name": "Johnny Nash - I Can See Clearly Now",
+        "location": "https://www.youtube.com/watch?v=FscIgtDJFXg",
+        "comments": "You are braver than you believe, stronger than you seem, and smarter than you think."
       },
       {
-        "name" : "Bob Marley 3 - Don't worry be Happy",
-        "location" : "https://www.youtube.com/watch?v=L3HQMbQAWRc"
+        "name": "You are my Sunshine",
+        "location": "https://www.youtube.com/watch?v=rc2jsjnt-HY",
+        "comments": "Falling down is an accident; staying down is a choice."
       },
       {
-        "name": "Bob Marley 4 - Don't worry be Happy",
-        "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
+        "name": "Coldplay - Viva La Vida",
+        "location": "https://www.youtube.com/watch?v=dvgZkm1xWPE",
+        "comments": "Keep your face always toward the sunshine--and shadows will fall behind you."
+      },
+      {
+        "name": "Pharrell Williams - Happy",
+        "location": "https://www.youtube.com/watch?v=ZbZSe6N_BXs",
+        "comments": "You have the whole day to look forward to."
+      },
+      {
+        "name" : "Justin Timberlake - CAN'T STOP THE FEELING!",
+        "location" : "https://www.youtube.com/watch?v=ru0K8uYEZWw",
+        "comments": "There is so much to smile about."
+      },
+      {
+        "name": "U2 - Beautiful Day",
+        "location": "https://www.youtube.com/watch?v=co6WMzDOh1o",
+        "comments": "There is always a light at the end of the tunnel."
+      },
+      {
+        "name": "Daniel Powter - Bad Day",
+        "location": "https://www.youtube.com/watch?v=gH476CxJxfg",
+        "comments": "Life is a roller coaster, your downs will always be followed up by your highs."
       }
     ]
   },
   {
-    "mood" : "Happy",
+    "mood" : "happy",
     "songs" : [
       {
-        "name" : "Rick Astley - Never Gonna Give You Up",
-        "location" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        "name": "Rick Astley - Never Gonna Give You Up",
+        "location": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "comments": "Your day will only get better."
       },
             {
-        "name" : "Rick Astley 2 - Never Gonna Give You Up",
-        "location" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        "name": "HAPPY Music - Good Morning Ukulele Music",
+        "location": "https://www.youtube.com/watch?v=NvZtkt9973A",
+        "comments": "Whoever is happy will make others happy."
       },
       {
-        "name" : "Rick Astley 3 - Never Gonna Give You Up",
-        "location" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        "name": "DJ Khaled feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne - I'm The One",
+        "location": "https://www.youtube.com/watch?v=MlqUWSZSfXM",
+        "comments": "Be the reason someone smiles today."
       },
       {
-        "name" : "Rick Astley 4 - Never Gonna Give You Up",
-        "location" : "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        "name": "Mark Ronson - Uptown Funk (feat. Bruno Mars)",
+        "location": "https://www.youtube.com/watch?v=ziN7Y1M1v8s",
+        "comments": "The less you care what others think, the happier you will be."
+      },
+      {
+        "name" : "Coldplay - Paradise",
+        "location" : "https://www.youtube.com/watch?v=1G4isv_Fylg",
+        "comments": "Happiness is contagious, so make sure you keep smiling."
+      },
+      {
+        "name" : "Daft Punk - One More Time ",
+        "location" : "https://www.youtube.com/watch?v=FGBhQbmPwH8",
+        "comments": "Nice smile! :)"
+      },
+      {
+        "name": "Boom Boom Pow",
+        "location": "https://www.youtube.com/watch?v=Owa2s4O0ioU",
+        "comments": "You rock!"
+      },
+      {
+        "name" : "Chris Brown & Benny Benassi - Beautiful People",
+        "location" : "https://www.youtube.com/watch?v=Owa2s4O0ioU",
+        "comments": "Shine bright like a diamond."
       }
     ]
   },
   {
-    "mood" : "Angry",
+    "mood" : "anger",
     "songs": [
-        {
-            "name": "Bob Marley 1 - Don't worry be Happy",
-            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
-        },
-        {
-            "name": "Bob Marley 1 - Don't worry be Happy",
-            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
-        },
-        {
-            "name": "Bob Marley 1 - Don't worry be Happy",
-            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
-        },
-        {
-            "name": "Who Let The Dogs Out 1",
-            "location": "https://www.youtube.com/watch?v=9sLR0vgpeWI"
-        }
+      {
+        "name": "Light Music - soft, uplifting, work, focus",
+        "location": "https://www.youtube.com/watch?v=NQKC24th90U",
+        "comments": "Anger does not solve anything. It builds nothing, but it can destroy everything."
+      },
+      {
+        "name": "Relaxing Piano Music: Romantic Music, Beautiful Music, Soothing Sleep Music, Relaxing Music",
+        "location": "https://www.youtube.com/watch?v=9Q634rbsypE",
+        "comments": "If another can easily anger you, it is because you are off balance with yourself."
+      },
+      {
+        "name": "Instrumental Music for Working in Office (Easy Listening)",
+        "location": "https://www.youtube.com/watch?v=2TvWZEVf6go",
+        "comments": "Speak when you are angry and you will make the best speech you will ever regret."
+      },
+      {
+        "name": "Yiruma - River Flows in You",
+        "location": "https://www.youtube.com/watch?v=7maJOI3QMu0",
+        "comments": "The greatest remedy for anger is delay."
+      },
+      {
+        "name": "Once Upon A December",
+        "location": "https://www.youtube.com/watch?v=bs2VL_HYG9Y",
+        "comments": "You will not be punished for your anger, but you will be punished by your anger."
+      },
+      {
+        "name": "Vanessa Carlton - A Thousand Milespy",
+        "location": "https://www.youtube.com/watch?v=Cwkej79U3ek",
+        "comments": "Grab a kit kat. ;)"
+      },
+      {
+        "name": "Swedish House Mafia ft. John Martin - Don't You Worry Child",
+        "location": "https://www.youtube.com/watch?v=1y6smkh6c-0",
+        "comments": "Anger blurs your vision and wil lead you to bad choices."
+      },
+      {
+        "name": "Coldplay - A Sky Full Of Stars",
+        "location": "https://www.youtube.com/watch?v=VPRjCeoBqrI",
+        "comments": "Try this simple exercise called smiling :)"
+      }
     ]
   },
   {
-    "mood" : "Fear",
+    "mood" : "fear",
     "songs": [
-        {
-            "name": "Bob Marley 1 - Don't worry be Happy",
-            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
-        },
-        {
-            "name": "Bob Marley 1 - Don't worry be Happy",
-            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
-        },
-        {
-            "name": "Bob Marley 1 - Don't worry be Happy",
-            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
-        },
-        {
-            "name": "Who Let The Dogs Out 1",
-            "location": "https://www.youtube.com/watch?v=9sLR0vgpeWI"
-        }
+      {
+        "name": "R. Kelly - I Believe I Can Fly (LP Version)",
+        "location": "https://www.youtube.com/watch?v=GIQn8pab8Vc",
+        "comments": "Your fears are a kind of prison that confines you within a limited range of action. The less you fear, the more power you will have and the more fully you will live."
+      },
+      {
+        "name": "Thinking Out Loud by Ed Sheeran",
+        "location": "https://www.youtube.com/watch?v=TKugD5fabTA",
+        "comments": "Courage is knowing what not to fear. - Plato"
+      },
+      {
+        "name": "Perfect - Ed Sheeran",
+        "location": "https://www.youtube.com/watch?v=UDDMYw_IZnE",
+        "comments": "Doubt kills more dreams than failure ever will. - Suzy Kassem"
+      },
+      {
+        "name": "One Call Away - Charlie Puth",
+        "location": "https://www.youtube.com/watch?v=RPYumdhRMkU",
+        "comments": "Too many of us are not living our dreams because we are living our fears. - Les Brown"
+      },
+      {
+        "name": "Coldplay - Adventure Of A Lifetime",
+        "location": "https://www.youtube.com/watch?v=QtXby3twMmI",
+        "comments": "Do not be afraid is written in the bible 365 times. A daily reminder from God to stay fearless."
+      },
+      {
+        "name": "Katy Perry - Roar (Official",
+        "location": "https://www.youtube.com/watch?v=F1B9Fk_SgI0",
+        "comments": "Your life starts when you stop being afraid."
+      },
+      {
+        "name": "Black Eyed Peas - I Gotta Feeling",
+        "location": "https://www.youtube.com/watch?v=CwdrtwZiQ9E",
+        "comments": "Fear does not exist anywhere except in the mind."
+      },
+      {
+        "name": "Sara Bareilles - Brave",
+        "location": "https://www.youtube.com/watch?v=QUQsqBqxoR4",
+        "comments": "Fear only God."
+      },
+      {
+        "name": "Miley Cyrus - The Climb",
+        "location": "https://www.youtube.com/watch?v=NG2zyeVRcbs",
+        "comments": "Overcoming your fears is the only path to achieving your goals."
+      },
+      {
+        "name": "Katy Perry - Firework",
+        "location": "https://www.youtube.com/watch?v=QGJuMBdaqIw",
+        "comments": "Your life starts when you stop being afraid."
+      }
     ]
   },
   {
-    "mood" : "Surprise",
+    "mood" : "surprise",
     "songs": [
-        {
-            "name": "Bob Marley 1 - Don't worry be Happy",
-            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
-        },
-        {
-            "name": "Bob Marley 1 - Don't worry be Happy",
-            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
-        },
-        {
-            "name": "Bob Marley 1 - Don't worry be Happy",
-            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
-        },
-        {
-            "name": "Who Let The Dogs Out 1",
-            "location": "https://www.youtube.com/watch?v=9sLR0vgpeWI"
-        }
+      {
+        "name": "Maroon 5 - Sugar",
+        "location": "https://www.youtube.com/watch?v=48VSP-atSeI",
+        "comments": "What has you so surprised?"
+      },
+      {
+        "name": "I'm Yours - Jason Mraz",
+        "location": "https://www.youtube.com/watch?v=RILP53OR63k",
+        "comments": "Surprises are better than disappointments! - Veeraj Rane"
+      },
+      {
+        "name": "Gryffin, Illenium - Feel Good ft. Daya",
+        "location": "https://www.youtube.com/watch?v=sZLLB6JNKpU",
+        "comments": "Surprise is the greatest gift which life can grant us. - Boris Pasternak"
+      },
+      {
+        "name": "Martin Garrix Feat.JRM - These Are The Times",
+        "location": "https://www.youtube.com/watch?v=p6sqOpf7CzY",
+        "comments": "The best things happen unexpectedly."
+      },
+      {
+        "name": "Sting - Englishman In New York",
+        "location": "https://www.youtube.com/watch?v=d27gTrPPAyk",
+        "comments": "Those who are easily shocked should be shocked more often."
+      },
+      {
+        "name": "Alice In Chains - Rooster",
+        "location": "https://www.youtube.com/watch?v=uAE6Il6OTcs",
+        "comments": "The secret to humor is surprise."
+      },
+      {
+        "name": "Jill Scott - A Long Walk",
+        "location": "https://www.youtube.com/watch?v=TSYMKUtNuw8",
+        "comments": "Life is nothing but a succession of events full of surprises."
+      },
+      {
+        "name": "Michael Jackson - Billie Jean",
+        "location": "https://www.youtube.com/watch?v=3Wa1hqqRxHg",
+        "comments": "The more control you have on your life, the less chance you have of bring surprised."
+      },
+      {
+        "name": "Childish Gambino - Feels Like Summer",
+        "location": "https://www.youtube.com/watch?v=F1B9Fk_SgI0",
+        "comments": "Life is nothing but a succession of events full of surprises."
+      }
     ]
   },
   {
-    "mood" : "Neutral",
+    "mood" : "neutral",
     "songs": [
-        {
-            "name": "Bob Marley 1 - Don't worry be Happy",
-            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
-        },
-        {
-            "name": "Bob Marley 2 - Don't worry be Happy",
-            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
-        },
-        {
-            "name": "Bob Marley 3 - Don't worry be Happy",
-            "location": "https://www.youtube.com/watch?v=L3HQMbQAWRc"
-        },
-        {
-            "name": "Who Let The Dogs Out 1",
-            "location": "https://www.youtube.com/watch?v=9sLR0vgpeWI"
-        }
+      {
+        "name": "Rachel Platten - Fight Song",
+        "location": "https://www.youtube.com/watch?v=xo1VInw-SKc",
+        "comments": "Balance is key."
+      },
+      {
+        "name": "Jordan Smith - Stand In The Light",
+        "location": "https://www.youtube.com/watch?v=fgXRzjlbbng",
+        "comments": "When you can't find the sunshine, be the sunshine!"
+      },
+      {
+        "name": "Imagine Dragons - On Top Of The World",
+        "location": "https://www.youtube.com/watch?v=w5tWYmIOWGk",
+        "comments": "Enjoy the little things!"
+      },
+      {
+        "name": "Justin Bieber - Life Is Worth Living",
+        "location": "https://www.youtube.com/watch?v=Klx1npc7LDo",
+        "comments": "A problem is a chance for you to do your best. - Duke Ellington"
+      },
+      {
+        "name": "Michael Jackson - Beat It",
+        "location": "https://www.youtube.com/watch?v=BzTHNxSpgPs",
+        "comments": "Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along with people."
+      },
+      {
+        "name": "Nina Simone - Tell it like it is",
+        "location": "https://www.youtube.com/watch?v=uBImi5rMIYg",
+        "comments": "Keep calm and stay positive."
+      },
+      {
+        "name": "Erykah Badu - On & On",
+        "location": "https://www.youtube.com/watch?v=-CPCs7vVz6s",
+        "comments": "Calm minds bring strength and self confidence, which are both necessary for a good mental health."
+      },
+      {
+        "name": "Gotye - Somebody That I Used To Know",
+        "location": "https://www.youtube.com/watch?v=8UVNT4wvIGY",
+        "comments": "Staying cool and keeping your mind calm will always pay off."
+      },
+      {
+        "name": "Childish Gambino - Redbone",
+        "location": "https://www.youtube.com/watch?v=Kp7eSUU9oy8",
+        "comments": "Balance is key."
+      }
     ]
   }
 ]
